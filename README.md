@@ -1,2 +1,2 @@
-# Tokanodor.exe
-No Skidddddd Mememmemememe Malware Here Is Make That C++ trojan
+# Tokanodor
+C++ skidded GDI trojan by Hugopako
